@@ -1,0 +1,2 @@
+Model,Accuracy,Macro F1,Training time (s),Inference time per ticket (ms)
+TF-IDF + Logistic Regression,1.0,1.0,0.06978410000010626,0.027663235293991475
